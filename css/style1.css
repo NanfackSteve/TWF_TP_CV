@@ -1,0 +1,27 @@
+body { padding-top: 10px; 
+    text-align: justify;
+}
+ h1{
+   text-align:center;
+ }
+[class*="row"], footer { 
+       background-color: mintcream; 
+       /* border: 2px solid black; 
+        border-radius: 6px;  */
+         line-height: 40px; 
+         padding: 20px;
+}
+
+table{
+    width:100%;
+    text-align:justify;
+    border: 2px solid black; 
+}
+th{
+    width:25%;
+    padding: 20px;
+}
+td{
+    width:75%;
+    padding: 20px;
+}
