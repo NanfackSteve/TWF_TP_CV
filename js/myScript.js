@@ -5,7 +5,7 @@ profilePicture.onclick = changePicture;
 
 //Creation de la fonction qui change l'image
 function changePicture() {
-    profilePicture.src = "../assets/profil-cv1.png";
+    profilePicture.src = "./assets/profil-cv1.png";
 }
 
 var addExp = document.getElementById('btn-add-exp');
